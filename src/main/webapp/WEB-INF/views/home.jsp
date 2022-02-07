@@ -25,7 +25,6 @@
 		<p><a href="total">연도별 통계</a></p>
 	</c:if>
 	</ul></ul>
-dsfs
 		
 </body>
 </html>
